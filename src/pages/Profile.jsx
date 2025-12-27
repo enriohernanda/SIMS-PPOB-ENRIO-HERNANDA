@@ -7,9 +7,9 @@ import Navbar from '../components/Layout/Navbar';
 const Profile = () => {
   const [isEditMode, setIsEditMode] = useState(false);
   const [profileData, setProfileData] = useState({
-    email: 'wallet@nutech.com',
-    namaDepan: 'Kristanto',
-    namaBelakang: 'Wibowo',
+    email: 'enriohernanda@gmail.com',
+    namaDepan: 'Enrio',
+    namaBelakang: 'Hernanda',
   });
 
   const handleInputChange = (e) => {

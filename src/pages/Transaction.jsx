@@ -38,7 +38,7 @@ const Transaction = () => {
 
       <div className="px-8 md:px-24 mt-10">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center mb-10">
-          <ProfileInfo nama="Kristanto Wibowo" />
+          <ProfileInfo nama="Enrio Hernanda" />
           <KartuSaldo saldo={1500000} />
         </div>
         <h2 className="text-xl font-bold text-gray-800 mb-6">Semua Transaksi</h2>

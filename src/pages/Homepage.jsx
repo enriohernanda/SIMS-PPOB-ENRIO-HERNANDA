@@ -44,7 +44,7 @@ const Homepage = () => {
       <Navbar />
       <div className="px-8 md:px-24 mt-10">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-          <ProfileInfo nama={'Enrio'} />
+          <ProfileInfo nama={'Enrio Hernanda'} />
           <KartuSaldo saldo={900000} />
         </div>
         <MenuLayanan layanan={daftarLayanan} />
